@@ -1,0 +1,8 @@
+сен 21, 2021 6:04:52 PM java.util.logging.LogManager$RootLogger log
+WARNING: Произошла ошибка при подключении клиента или при запуске сервера!
+сен 21, 2021 6:04:59 PM java.util.logging.LogManager$RootLogger log
+WARNING: Произошла ошибка при подключении клиента или при запуске сервера!
+сен 21, 2021 6:05:31 PM java.util.logging.LogManager$RootLogger log
+WARNING: Произошла ошибка при подключении клиента или при запуске сервера!
+сен 21, 2021 6:06:11 PM java.util.logging.LogManager$RootLogger log
+INFO:  Сервер запущен!
